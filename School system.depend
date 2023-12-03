@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1701635197 source:c:\users\halae\onedrive\desktop\school system\school system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"student.h"
+
+1701636995 c:\users\halae\onedrive\desktop\school system\school system\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
